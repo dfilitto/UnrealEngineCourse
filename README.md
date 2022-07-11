@@ -7,3 +7,4 @@ O curso têm como objetivo ensinar os principais recursos da ferramenta Unreal 5
 - Aula 04: Menus (Widgets)
 - Aula 05: Construindo um jogo estilo corrida infinita
 - Aula 06: Animação de personagens
+- Aula 07: Tudo sobre uso de sons na Unreal
