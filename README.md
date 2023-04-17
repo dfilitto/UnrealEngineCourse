@@ -1,5 +1,5 @@
 ![](https://github.com/dfilitto/UnrealEngineCurse/blob/main/UNREAL%205.2%20%20CURSO%20COMPLETO.jpg)
-# Unreal Engine Curse
+# Unreal Engine Course
 
 O curso têm como objetivo ensinar os principais recursos da ferramenta Unreal 5 e é baseado no material desenvolvido por Tommy Tran e vários outros conteúdos legais presentes na web e no material oficial da Unreal Engine.
 
